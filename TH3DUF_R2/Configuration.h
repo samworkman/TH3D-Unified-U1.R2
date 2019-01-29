@@ -166,7 +166,7 @@
 //===========================================================================
 // Creality CR-10S Options - Select 'Arduino Mega 2560' from Tools > Board
 //===========================================================================
-//#define CR10S
+#define CR10S
 //#define CR10S_MINI
 //#define CR10S_S4
 //#define CR10S_S5
@@ -188,7 +188,7 @@
 //#define EZOUTV2_ENABLE
 
 // EZABL Probe Mounts
-//#define CR10_OEM
+#define CR10_OEM
 //#define CR10_VOLCANO
 //#define CR10_V6HEAVYDUTY
 //#define TM3DAERO
